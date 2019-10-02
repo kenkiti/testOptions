@@ -8,8 +8,6 @@ using CommandLine;
 
 namespace testOptions
 {
-
-
     class Options
     {
         [Option('c', "code", Default = 4565, HelpText = "code")]

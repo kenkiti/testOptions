@@ -52,7 +52,6 @@ namespace testOptions
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
             string[] Commands = System.Environment.GetCommandLineArgs();
 
             for (int i = 0; i < Commands.Length; i++)
